@@ -2,8 +2,6 @@ Nanoparticle Drift Analysis (Python + MATLAB)
 
 This project simulates 3D Brownian motion with directional drift using Python and applies numerical drift correction using MATLAB. It formed part of my undergraduate engineering dissertation and demonstrates an end-to-end scientific workflow involving simulation, data analysis, and velocity estimation. These scripts were used to validate a larger MATLAB-based optical imaging system.
 
-Link to my dissertation: https://docs.google.com/document/d/1YFe4XhNzKJNhWhS9P_DZ7d9_7ZRfbBUTJZ-yaC-JCMM/edit?usp=drive_link
-
 Context:
 
 This project was originally developed as part of my final-year dissertation in Electrical and Electronic Engineering. It focuses on simulating nanoparticle movement using Brownian motion models with directional drift and correcting that drift numerically using MATLAB.
